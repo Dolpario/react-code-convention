@@ -31,6 +31,7 @@
     "react/prop-types": "off",
     "react/no-children-prop": "off",
     "no-undef": "off",
-    "react/jsx-key": "off"
+    "react/jsx-key": "off",
+    "properties": "always"
   }
 }
